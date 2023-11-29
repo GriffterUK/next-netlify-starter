@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welsh Grand Tour</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to WGT" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Welcome to the  Welsh Grand Tour <code>Winter Edition 23/34</code>
         </p>
       </main>
 
