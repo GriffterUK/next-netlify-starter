@@ -5,16 +5,14 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <Head>
-        <title>Welsh Grand Tour</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+ 
 
       <main>
         <Header title="Welcome to WGT" />
         <p className="description">
           Welcome to the  Welsh Grand Tour <code>Winter Edition 23/34</code>
         </p>
+        
       </main>
 
       <Footer />
