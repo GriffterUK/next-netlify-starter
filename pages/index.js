@@ -12,6 +12,20 @@ export default function Home() {
         <p className="description">
           Welcome to the  Welsh Grand Tour <code>Winter Edition 23/34</code>
         </p>
+
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              What's New
+            </div>
+            <div class="col">
+              Fixtures
+            </div>
+            <div class="col">
+              Registration
+            </div>
+          </div>
+        </div>
         
       </main>
 

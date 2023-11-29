@@ -1,16 +1,5 @@
 import Head from 'next/head'
 import '@styles/globals.css'
-// function Application({ Component, pageProps }) {
-//   return (
-//     <>
-
-//     <Head>
-//     <title>Welsh Grand Tour</title>
-//     <link rel="icon" href="/favicon.ico" />
-//   </Head>
-  
-//   <Component {...pageProps} />)
-// }
 
 function Application({ Component, pageProps }) {
   return( 
